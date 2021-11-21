@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(200, 206, 205);
+    font-family: cursive;
+    font-weight: 100;
+    color: rgb(14, 16, 43);
+  }
+
+
+  .container-fluid{
+      background-color: rgb(183, 185, 218);
+      color: blueviolet;
+
+  }
+
